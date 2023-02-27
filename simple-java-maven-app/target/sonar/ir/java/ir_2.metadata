@@ -1,0 +1,4 @@
+com.mycompany.app.App#main([Ljava/lang/String;)V
+com.mycompany.app.App#<init>()V
+com.mycompany.app.App#instance-init#
+com.mycompany.app.App#getMessage()Ljava/lang/String;
